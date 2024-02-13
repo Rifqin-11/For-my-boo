@@ -259,11 +259,11 @@ img.imgLove{
         width: 200px;
     }
     .countdown{
-        gap: 40px;
+        gap: 20px;
     }
     
     .countdown div{
-        flex-basis: 100px;
+        flex-basis: 10px;
     }
     
     .countdown div p{

@@ -259,7 +259,7 @@ img.imgLove{
         width: 200px;
     }
     .countdown{
-        gap: 20px;
+        gap: 10px;
     }
     
     .countdown div{
@@ -267,7 +267,7 @@ img.imgLove{
     }
     
     .countdown div p{
-        font-size: 40px;
+        font-size: 35px;
     }
     .grid{
         margin-top: 200px;

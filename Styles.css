@@ -129,6 +129,11 @@ img.imgLove{
     width: 250px;
 }
 
+.photobox:hover{
+    scale: 2;
+    transition-delay: 0.3s;
+}
+
 .countdown{
     display: flex;
     justify-content: center;
